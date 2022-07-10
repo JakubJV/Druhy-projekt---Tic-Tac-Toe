@@ -1,10 +1,4 @@
 import random
-"""
-projekt_2.py: druhý projekt do Engeto Online Python Akademie
-author: Jakub Vondra
-email: jakubvond@seznam.cz
-discord: JakubJv#7166
-"""
 
 separator = 42 * ("=")
 
